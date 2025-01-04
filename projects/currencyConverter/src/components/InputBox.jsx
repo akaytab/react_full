@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import React,{useId} from 'react';
+import {useId} from 'react';
 
 function InputBox({
     label,
